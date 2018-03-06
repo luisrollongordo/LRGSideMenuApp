@@ -1,6 +1,6 @@
-# sideMenuDemo
+# LRGSideMenuApp
 
-Aplicación Demo con Menú Lateral obtenido de la librería SWRevealViewController.
+Aplicación Demo con Menú Lateral integrando la librería SWRevealViewController.
 
 Para acceder directamente al Tutorial, por favor visita:
 
